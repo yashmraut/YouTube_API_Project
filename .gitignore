@@ -1,4 +1,18 @@
+#Security & sensitive files
 *.pem
 .env
+
+#Python cache & artifacts
 __pycache__/
 *.pyc
+*.swp
+
+#Shell/user-specific files
+.bash_history
+.bash_profile
+.bash_logout
+.bashrc
+.viminfo
+.cache/
+.local/
+.ssh/

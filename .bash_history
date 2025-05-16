@@ -61,3 +61,69 @@ ls -a
 EDITOR=nano crontab -e
 nano api.py
 exit
+ls
+ll
+head -5 newchannels.csv 
+ls
+ll
+pwd
+git init
+sudo -yum update
+sudo yum update
+sudo yum install git
+pwd
+ls
+ll
+git init
+ls -a
+touch .gitignore
+ls
+ls -a
+nano .gitignore
+cat .gitignore
+ls
+cd myenv/
+ls
+cd ..
+ls
+nano api.py 
+ll
+ls
+nano api.py 
+ls
+git add
+git add .
+git commit -m "initial commit of Youtube API Project"
+git remote add origin https://github.com/yashmraut/YouTube_API_Project.git
+git branch -M main
+git push -u origin main
+ls
+ll
+ls
+git status
+ls
+ls -a
+cat .gitignore 
+nano .gitignore
+ls
+git status
+brew install git-filter-repo
+ll
+ls
+ls -a
+cd myenv/
+ls
+source myenv/bin/activate
+cd ..
+ls
+source myenv/bin/activate
+cd ..
+ls
+cd ec2-user/
+ls
+deactivate
+ls
+cat .gitignore 
+ls
+ll
+ls
