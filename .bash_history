@@ -127,3 +127,17 @@ cat .gitignore
 ls
 ll
 ls
+git status
+ls
+cat .gitignore 
+ls
+git status
+git add .
+git status
+git git commit -m "updated the .gitignore file"
+git commit -m "updated the .gitignore file"
+git status
+git push origin main
+git pull
+ls
+ls -a
